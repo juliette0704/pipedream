@@ -1,6 +1,6 @@
 export default {
   type: "app",
-  app: "azure_api_for_fhir",
+  app: "claris_filemaker_server_odata_api",
   propDefinitions: {},
   methods: {
     // this.$auth contains connected account data
